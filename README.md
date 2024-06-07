@@ -2,7 +2,7 @@
 A program that generates subtitles in the format of instagram and facebook reels, youtube shorts and tiktok videos.
 *** 
 ### Installation and usage:
-1. If using git to download repo type: `git clone https://github.com/zubu007/auto-subtitle-generator.git` 
+1. If using git to download repo type: `git clone https://github.com/azizop123/Subtitles-Video.git` 
 2. Install [ffmpeg](https://ffmpeg.org)
    * On Windows
      * Install [Chocolately](https://chocolatey.org/install) and type `choco install ffmpeg` 
